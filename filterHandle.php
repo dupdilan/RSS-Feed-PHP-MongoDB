@@ -23,12 +23,11 @@ $category = $_GET["q"];
     echo        '</div>
     </div>';
 
-    if(!$item){
-        echo "No category Founded!!!";
     }
-    }
-    
-        // echo $client;
+    // if(var_dump(empty($result)) == false){
+    //     echo "No Data";
+    // }
+
         // echo $collection;
 
 ?>

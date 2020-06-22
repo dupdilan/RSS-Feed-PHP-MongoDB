@@ -19,6 +19,7 @@
   <button type="button" class="btn btn-secondary" onclick="getDataFromDb()">View RSS Feed data Getting from mongoDB Using Ajax</button>
   <button type="button" class="btn btn-primary" onclick="location.href = 'addnew.php';">Add New Entity to MongoDB</button>
   <button type="button" class="btn btn-secondary" onclick="location.href = 'filterData.php';">Filter data </button>
+  <button type="button" class="btn btn-primary" onclick="location.href = 'xmlGenerator.php';">Export New XML File </button>
       </div>
 
       
